@@ -1,16 +1,17 @@
-package com.mav.dsa.arrays;
+package com.mav.dsa.leetcode;
 
 import java.util.Arrays;
 
-public class Arrays1D {
+public class Sol1929 {
+
   public static void main(String[] args) {
-    //
-    int[] arr = {1, 2, 1, 3};
-    int[] concatenation = getConcatenation(arr);
-    System.out.println(Arrays.toString(concatenation));
+    Sol1929 sol1929 = new Sol1929();
+    int[] str = {1, 2, 1};
+    int[] result = sol1929.getConcatenation(str);
+    System.out.println(Arrays.toString(result));
   }
 
-  public static int[] getConcatenation(int[] nums) {
+  public int[] getConcatenation(int[] nums) {
     int length = nums.length;
     int[] ans = new int[length * 2];
     for (int a = 0; a < ans.length; a++) {

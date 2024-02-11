@@ -1,6 +1,5 @@
-package com.mav.dsa.arrays;
+package com.mav.dsa.leetcode;
 
-import java.time.LocalTime;
 import java.util.Arrays;
 
 public class Sol1365 {

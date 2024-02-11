@@ -1,9 +1,4 @@
-package com.mav.dsa.arrays;
-
-import java.util.HashMap;
-import java.util.Iterator;
-import java.util.Map;
-import java.util.Set;
+package com.mav.dsa.leetcode;
 
 // 26. Remove Duplicates from Sorted Array
 public class Sol26 {

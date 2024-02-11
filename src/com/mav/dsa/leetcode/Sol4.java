@@ -1,4 +1,4 @@
-package com.mav.dsa.arrays;
+package com.mav.dsa.leetcode;
 
 import java.util.HashMap;
 import java.util.Iterator;

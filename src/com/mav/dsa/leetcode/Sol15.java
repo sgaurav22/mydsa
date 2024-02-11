@@ -1,7 +1,6 @@
-package com.mav.dsa.arrays;
+package com.mav.dsa.leetcode;
 
 import java.util.*;
-import java.util.stream.Collectors;
 
 public class Sol15 {
   public static void main(String[] args) {

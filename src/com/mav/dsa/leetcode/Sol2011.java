@@ -1,4 +1,4 @@
-package com.mav.dsa.arrays;
+package com.mav.dsa.leetcode;
 
 public class Sol2011 {
   public static void main(String[] args) {

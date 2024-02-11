@@ -1,6 +1,5 @@
-package com.mav.dsa.arrays;
+package com.mav.dsa.leetcode;
 
-import javax.swing.*;
 import java.util.ArrayList;
 import java.util.List;
 
